@@ -6,6 +6,7 @@ The rapid growth of the global population raises significant concerns worldwide,
 This project aims to study the evolution of the global population as well as its overall distribution between 2015 and 2023 to assess regions experiencing faster population growth.
 
 To access this project, please click on: [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
+
 Datasource:[here](https://www.kaggle.com/datasets/trungkien1202/world-population-data/data)
 
 ## Knowledge and tools used:
