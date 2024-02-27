@@ -1,4 +1,4 @@
-# World_population_growth
+# World Population Growth and Global Distribution
 
 ## Project Overview
 In a rapidly growing world full of challenges, it is important to develop tools aimed at tracking the evolution of certain vital indicators. 
