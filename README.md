@@ -5,7 +5,7 @@ In a rapidly growing world full of challenges, it is important to develop tools 
 The rapid growth of the global population raises significant concerns worldwide, particularly in Africa, where famine and food shortages are hitting hard. 
 This project aims to study the evolution of the global population as well as its overall distribution between 2015 and 2023 to assess regions experiencing faster population growth.
 
-To access this project, please click on: [here]([https://github.com/samarita22/World_population_growth/blob/main/STUDY%20OF%20WORLD%20POPULATION%20GROWTH.pdf])
+To access this project, please click on:[here](https://github.com/samarita22/World_population_growth/blob/main/STUDY%20OF%20WORLD%20POPULATION%20GROWTH.pdf)
 
 Datasource:[here](https://www.kaggle.com/datasets/trungkien1202/world-population-data/data)
 
